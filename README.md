@@ -1,1 +1,1 @@
-#  5.2 - Readme del asdasd.
+# 5.2 - Readme del repositorio seleccionado.
